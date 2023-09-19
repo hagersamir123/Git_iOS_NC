@@ -1,0 +1,3 @@
+Ignore.txt
+*.swift
+!class1.swift
